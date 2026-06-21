@@ -1,0 +1,26 @@
+[
+    {
+        "recipe_name": "Aloo Gobi Matar",
+        "cuisine": "North Indian",
+        "required_vegetables": ["Potato", "Cauliflower", "Tomato", "Green Chilli", "Coriander"],
+        "instructions": "1. Sauté onions, ginger, and green chillies. 2. Add diced potatoes and cauliflower florets with spices. 3. Mix in chopped tomatoes and cook until soft. 4. Garnish with fresh coriander."
+    },
+    {
+        "recipe_name": "Mixed Vegetable Sambar",
+        "cuisine": "South Indian",
+        "required_vegetables": ["Tomato", "Onion", "Lady-finger", "Radish", "Coriander"],
+        "instructions": "1. Boil toor dal until soft. 2. Cook chopped radish, lady-finger, onions, and tomatoes in tamarind water. 3. Add sambar powder and mix with cooked dal. 4. Temper with mustard seeds and curry leaves."
+    },
+    {
+        "recipe_name": "Aloo Palak Sabzi",
+        "cuisine": "North Indian",
+        "required_vegetables": ["Potato", "Palak", "Tomato", "Green Chilli"],
+        "instructions": "1. Blanch and puree the palak (spinach). 2. Sauté cumin seeds, green chillies, and tomatoes. 3. Add boiled cubed potatoes and pour in the spinach puree. 4. Simmer for 5 minutes."
+    },
+    {
+        "recipe_name": "Bhindi Masala",
+        "cuisine": "Punjabi",
+        "required_vegetables": ["Lady-finger", "Onion", "Tomato", "Green Chilli", "Coriander"],
+        "instructions": "1. Wash and dry bhindi thoroughly, then chop into pieces. 2. Stir fry bhindi until non-sticky, then remove. 3. Sauté sliced onions, green chillies, and tomatoes. 4. Toss bhindi back in with spices."
+    }
+]
